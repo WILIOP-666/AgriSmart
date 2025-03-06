@@ -1,7 +1,7 @@
-## AgriSmart, by Srcbook
+## AgriSmart,
 
-This app was created using https://srcbook.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+This app was created using 
+Need help or want to join the community
 
 To run the devserver:
 ```
